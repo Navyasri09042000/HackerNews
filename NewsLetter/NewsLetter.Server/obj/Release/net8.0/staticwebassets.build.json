@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "nV/MYtpFp6ZoEGegS0Mj7A6y8W+EnnQbZAZJYCRX8OU=",
+  "Source": "NewsLetter.Server",
+  "BasePath": "_content/NewsLetter.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\newsletter.client.esproj",
+      "Version": 2,
+      "Source": "newsletter.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

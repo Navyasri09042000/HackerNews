@@ -1,0 +1,3 @@
+C:\Users\basav\source\repos\NewsLetter\newsletter.client\obj\Release\newsletter.client.esproj.CoreCompileInputs.cache
+C:\Users\basav\source\NewsLetter\newsletter.client\obj\Release\newsletter.client.esproj.CoreCompileInputs.cache
+C:\Users\navya\Downloads\Temp\HackerNews\NewsLetter\newsletter.client\obj\Release\newsletter.client.esproj.CoreCompileInputs.cache

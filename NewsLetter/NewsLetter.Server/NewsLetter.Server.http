@@ -1,0 +1,6 @@
+@NewsLetter.Server_HostAddress = http://localhost:5123
+
+GET {{NewsLetter.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

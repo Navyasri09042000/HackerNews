@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|c:\\users\\navya\\downloads\\temp\\hackernews\\newsletter\\newsletter.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|solutionrelative:newsletter.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|c:\\users\\navya\\downloads\\temp\\hackernews\\newsletter\\newsletter.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|solutionrelative:newsletter.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|c:\\users\\navya\\downloads\\temp\\hackernews\\newsletter\\newsletter.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|solutionrelative:newsletter.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EEBA85-2B7A-4ECE-B2C5-FF9DBB796042}|NewsLetter.Server\\NewsLetter.Server.csproj|c:\\users\\navya\\downloads\\temp\\hackernews\\newsletter\\newsletter.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EEBA85-2B7A-4ECE-B2C5-FF9DBB796042}|NewsLetter.Server\\NewsLetter.Server.csproj|solutionrelative:newsletter.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|c:\\users\\navya\\downloads\\temp\\hackernews\\newsletter\\newsletter.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|solutionrelative:newsletter.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|c:\\users\\navya\\downloads\\temp\\hackernews\\newsletter\\newsletter.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|solutionrelative:newsletter.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EEBA85-2B7A-4ECE-B2C5-FF9DBB796042}|NewsLetter.Server\\NewsLetter.Server.csproj|c:\\users\\navya\\downloads\\temp\\hackernews\\newsletter\\newsletter.server\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EEBA85-2B7A-4ECE-B2C5-FF9DBB796042}|NewsLetter.Server\\NewsLetter.Server.csproj|solutionrelative:newsletter.server\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|c:\\users\\navya\\downloads\\temp\\hackernews\\newsletter\\newsletter.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|solutionrelative:newsletter.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EEBA85-2B7A-4ECE-B2C5-FF9DBB796042}|NewsLetter.Server\\NewsLetter.Server.csproj|c:\\users\\navya\\downloads\\temp\\hackernews\\newsletter\\newsletter.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6EEBA85-2B7A-4ECE-B2C5-FF9DBB796042}|NewsLetter.Server\\NewsLetter.Server.csproj|solutionrelative:newsletter.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|c:\\users\\navya\\downloads\\temp\\hackernews\\newsletter\\newsletter.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{79631C0C-B173-4A94-903A-523A7DF9F3A6}|newsletter.client\\newsletter.client.esproj|solutionrelative:newsletter.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "newsletter.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "newsletter.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-17T03:51:09.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "newsletter.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "newsletter.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-16T13:03:39.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "newsletter.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "newsletter.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-16T12:54:08.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\NewsLetter.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NewsLetter.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\NewsLetter.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NewsLetter.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:58:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\NewsLetter.Server\\Controllers\\StoriesController.cs",
+              "RelativeDocumentMoniker": "NewsLetter.Server\\Controllers\\StoriesController.cs",
+              "ToolTip": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\NewsLetter.Server\\Controllers\\StoriesController.cs",
+              "RelativeToolTip": "NewsLetter.Server\\Controllers\\StoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:51:23.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "newsletter.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\main.ts",
+              "RelativeToolTip": "newsletter.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-16T10:25:12.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "newsletter.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "newsletter.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-16T10:04:41.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "newsletter.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "newsletter.client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-16T13:05:49.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "newsletter.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\newsletter.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "newsletter.client\\src\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-16T12:31:01.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\NewsLetter.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "NewsLetter.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\navya\\Downloads\\Temp\\HackerNews\\NewsLetter\\NewsLetter.Server\\appsettings.json",
+              "RelativeToolTip": "NewsLetter.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T09:58:41.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

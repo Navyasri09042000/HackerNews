@@ -1,0 +1,59 @@
+
+<div *ngIf="loading" class="loader-container">
+  <div class="loader"></div>
+</div>
+
+<div class="container" *ngIf="!loading">
+  <input type="text"
+         [(ngModel)]="searchTerm"
+         (input)="applyFilter()"
+         placeholder="Search by title..."
+         class="input_search" />
+  <button (click)="clearSearch()" class="input_search_btn">Clear</button>
+
+  <div *ngIf="filteredList.length > 0; else noData">
+    <table class="styled-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>ID</th>
+          <th>Title</th>
+          <th>Link</th>
+          <th>unixTime</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of filteredList; index as i">
+          <td>{{ (currentPage - 1) * pageSize + i + 1 }}</td>
+          <td>{{ item.id }}</td>
+          <td>{{ item.title }}</td>
+          <td>
+            <a [href]="item.link" target="_blank" rel="noopener noreferrer">{{ item.link }}</a>
+          </td>
+          <td>
+            {{ item.unixTime }}
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="total-items">Total items: {{ totalRecords }}</p>
+
+    <!-- Pagination Controls -->
+    <div class="pagination">
+      <button (click)="onPageChange(currentPage - 1)"
+              [disabled]="currentPage === 1 || filteredList.length === 0">
+         &laquo; Prev
+      </button>
+      <span>Page {{ currentPage }} of {{ totalPages }}</span>
+      <button (click)="onPageChange(currentPage + 1)"
+              [disabled]="currentPage === totalPages || filteredList.length === 0">
+        Next &raquo;
+      </button>
+    </div>
+  </div>
+</div>
+
+<ng-template #noData>
+  <p class="no-data">No data found. hello</p>
+</ng-template>

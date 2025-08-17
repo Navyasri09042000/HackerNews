@@ -1,0 +1,134 @@
+.loader-container {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.loader {
+  border: 8px solid #f3f3f3; /* Light gray */
+  border-top: 8px solid gray; /* Blue */
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  animation: spin 1s linear infinite;
+}
+
+/* Spin animation */
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.container {
+  max-width: 900px;
+  margin: 30px auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+.input_search {
+  margin: 10px 0px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+
+.input_search_btn {
+  margin: 10px 10px;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 1px solid gray;
+}
+
+.styled-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+  .styled-table th,
+  .styled-table td {
+    border: 1px solid #ddd;
+    padding: 12px 15px;
+    text-align: left;
+  }
+
+  .styled-table thead {
+    background-color: gray;
+    color: #ffffff;
+    font-weight: bold;
+  }
+
+  .styled-table tbody tr:nth-child(even) {
+    background-color: #f3f3f3;
+  }
+
+  .styled-table tbody tr:hover {
+    background-color: darkgray;
+  }
+
+a {
+  color: mediumblue;
+  text-decoration: none;
+}
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+.completed {
+  color: green;
+  font-weight: bold;
+}
+
+.pending {
+  color: #cc5500;
+  font-weight: bold;
+}
+
+.total-items {
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+  .pagination button {
+    background-color: gray;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+  }
+
+    .pagination button:disabled {
+      background-color: #ccc;
+      cursor: not-allowed;
+    }
+
+    .pagination button:not(:disabled):hover {
+      background-color: darkgray;
+    }
+
+.no-data {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #999;
+  margin-top: 40px;
+}

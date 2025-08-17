@@ -1,0 +1,12 @@
+C:\Users\basav\source\NewsLetter\NewsLetter.Server\obj\Release\net8.0\PubTmp\Out\NewsLetter.Server.exe
+C:\Users\basav\source\NewsLetter\NewsLetter.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\basav\source\NewsLetter\NewsLetter.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\basav\source\NewsLetter\NewsLetter.Server\obj\Release\net8.0\PubTmp\Out\NewsLetter.Server.dll
+C:\Users\basav\source\NewsLetter\NewsLetter.Server\obj\Release\net8.0\PubTmp\Out\NewsLetter.Server.deps.json
+C:\Users\basav\source\NewsLetter\NewsLetter.Server\obj\Release\net8.0\PubTmp\Out\NewsLetter.Server.runtimeconfig.json
+C:\Users\basav\source\NewsLetter\NewsLetter.Server\obj\Release\net8.0\PubTmp\Out\NewsLetter.Server.pdb
+C:\Users\basav\source\NewsLetter\NewsLetter.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\basav\source\NewsLetter\NewsLetter.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\basav\source\NewsLetter\NewsLetter.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\basav\source\NewsLetter\NewsLetter.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\basav\source\NewsLetter\NewsLetter.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
